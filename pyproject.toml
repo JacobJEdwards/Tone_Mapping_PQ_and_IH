@@ -1,0 +1,11 @@
+[project]
+name = "tone-mapping-pq-and-ih"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "colour>=0.1.5",
+    "numpy>=2.2.6",
+    "opencv-python>=4.11.0.86",
+]
