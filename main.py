@@ -15,6 +15,8 @@ def main() -> None:
 
     cv2.imshow("Example", img)
 
+    cv2.waitKey(0)
+
 
 if __name__ == "__main__":
     main()
